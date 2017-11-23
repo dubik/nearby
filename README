@@ -1,0 +1,3 @@
+COPY _credentials.plist to credentials.plist and REPLACE CLIENT_ID and CLIENT_SECRET
+with real keys. Don't forget to add credentials.plist to the project.
+

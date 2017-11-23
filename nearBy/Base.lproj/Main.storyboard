@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Yh7-xT-pBH">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Nearby venues-->
+        <scene sceneID="M00-KR-OC5">
+            <objects>
+                <tableViewController id="YOM-XK-aJ8" customClass="VenuesViewController" customModule="nearBy" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="SNt-Kz-XGZ">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <connections>
+                            <outlet property="dataSource" destination="YOM-XK-aJ8" id="Slh-vV-9GG"/>
+                            <outlet property="delegate" destination="YOM-XK-aJ8" id="egU-C0-TJ6"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Nearby venues" largeTitleDisplayMode="always" id="0ss-sV-HbF"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="A9W-lA-rT1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="964" y="134"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="ZGX-XH-7B4">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Yh7-xT-pBH" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="0RX-mW-diq">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="YOM-XK-aJ8" kind="relationship" relationship="rootViewController" id="rJE-fi-EJ3"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ly8-fz-1rK" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="142.40000000000001" y="134.93253373313345"/>
+        </scene>
+    </scenes>
+</document>

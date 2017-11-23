@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b86ce88c-79fe-4cad-a434-3ffabc68fb10" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_7C43D9EF-E92D-438A-B96B-638EB287FF0C" />
+  <component name="FavoritesManager">
+    <favorites_list name="nearBy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="VenuesViewController.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nearBy/VenuesViewController.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VenuesPresenter.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nearBy/VenuesPresenter.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoursquareServiceTests.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nearByTests/FoursquareServiceTests.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoursquareCredentialTests.swift" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nearByTests/FoursquareCredentialTests.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding>
+                <element signature="e#165#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoursquareService.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nearBy/FoursquareService.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleLocationManager.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NSLocationWhenInUseUsageDescription</find>
+      <find>authori</find>
+      <find>returning</find>
+      <find>getModel</find>
+      <find>presentJsonOnTable</find>
+      <find>got</find>
+      <find>as</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nearBy/ViewController.swift" />
+        <option value="$PROJECT_DIR$/nearBy/Info.plist" />
+        <option value="$PROJECT_DIR$/nearBy/SwiftyJSON.swift" />
+        <option value="$PROJECT_DIR$/nearBy/credentials.plist" />
+        <option value="$PROJECT_DIR$/nearBy/Detailed.swift" />
+        <option value="$PROJECT_DIR$/nearBy/FoursquareApi.swift" />
+        <option value="$PROJECT_DIR$/nearBy/DelayedSelector.swift" />
+        <option value="$PROJECT_DIR$/nearBy/NearByPresenter.swift" />
+        <option value="$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+        <option value="$PROJECT_DIR$/nearByTests/nearByTests.swift" />
+        <option value="$PROJECT_DIR$/nearBy/VenuesViewController.swift" />
+        <option value="$PROJECT_DIR$/nearByTests/FoursquareCredentialTests.swift" />
+        <option value="$PROJECT_DIR$/nearByTests/FoursquareServiceTests.swift" />
+        <option value="$PROJECT_DIR$/nearBy/FoursquareService.swift" />
+        <option value="$PROJECT_DIR$/nearBy/VenuesPresenter.swift" />
+        <option value="$PROJECT_DIR$/nearByTests/VenuesPresenterTests.swift" />
+        <option value="$PROJECT_DIR$/nearBy/SimpleLocationManager.swift" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="962" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="nearBy" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="nearBy" type="1d218c8b:XcodeProjectNode" />
+              <item name="nearBy" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="nearBy" type="1d218c8b:XcodeProjectNode" />
+              <item name="nearByTests" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="nearBy" type="1d218c8b:XcodeProjectNode" />
+              <item name="Products" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nearBy.xcodeproj" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="kCLDis&#9;null&#9;null" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="nearBy" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="XCTest/Kiwi.All Unit Tests">
+    <configuration name="All Unit Tests" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="nearBy" TARGET_NAME="nearByTests" CONFIG_NAME="Debug" SCHEME_NAME="All Unit Tests" TEST_MODE="SUITE_TEST" XCODE_SKIPPED_TESTS_HASH_CODE="0">
+      <envs />
+    </configuration>
+    <configuration name="Unnamed" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="nearBy" TARGET_NAME="nearBy" CONFIG_NAME="Debug" SCHEME_NAME="Unnamed" RUN_TARGET_PROJECT_NAME="nearBy" RUN_TARGET_NAME="nearBy" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+    <configuration name="nearBy" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="nearBy" TARGET_NAME="nearBy" CONFIG_NAME="Debug" SCHEME_NAME="nearBy" RUN_TARGET_PROJECT_NAME="nearBy" RUN_TARGET_NAME="nearBy" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Application.nearBy" />
+      <item index="2" class="java.lang.String" itemvalue="XCTest/Kiwi.All Unit Tests" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86ce88c-79fe-4cad-a434-3ffabc68fb10" name="Default" comment="" />
+      <created>1511463549261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511463549261</updated>
+      <workItem from="1511463551541" duration="604000" />
+      <workItem from="1511465583526" duration="15000" />
+      <workItem from="1511465663994" duration="387000" />
+      <workItem from="1511467189019" duration="19410000" />
+      <workItem from="1511547401344" duration="6837000" />
+      <workItem from="1511611221815" duration="460000" />
+      <workItem from="1511612117468" duration="20548000" />
+      <workItem from="1511707864990" duration="968000" />
+      <workItem from="1511771330708" duration="127000" />
+      <workItem from="1511771469445" duration="117000" />
+      <workItem from="1511771709759" duration="2965000" />
+      <workItem from="1511814238426" duration="24462000" />
+      <workItem from="1511898274810" duration="1262000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added SimpleLocationManager">
+      <created>1511512182149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511512182149</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added some requests and jsons ping pong">
+      <created>1511552084892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511552084892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed table view cell">
+      <created>1511611381164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511611381164</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Rendering distance in km if longer than 1000m">
+      <created>1511612773603</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1511612773603</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed constrains for Detailed view">
+      <created>1511612957782</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511612957782</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Removed some crap">
+      <created>1511613312173</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511613312173</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Sorting by distance">
+      <created>1511614276646</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1511614276646</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added delayed selector, searching for venues while user types">
+      <created>1511681188166</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511681188166</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Implemented cell reusage">
+      <created>1511682378777</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1511682378777</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Showing venues search">
+      <created>1511694798623</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1511694798623</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Resetting filtering model when search text is empty">
+      <created>1511701387318</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1511701387318</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Made distance label grow, so that any distance can be shown">
+      <created>1511701422620</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1511701422620</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Small refactorings">
+      <created>1511771800106</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1511771800106</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Moved DelayedSelector to separate file">
+      <created>1511772314486</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1511772314486</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Renamed FoursquareService">
+      <created>1511778382558</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1511778382558</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Removed test cells">
+      <created>1511778632299</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1511778632299</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Refactored table view related code into extension">
+      <created>1511815654372</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1511815654373</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Refactored MVC into MVP">
+      <created>1511861649927</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1511861649927</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Removed code duplicate in handle*Results">
+      <created>1511864565189</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1511864565189</updated>
+    </task>
+    <task id="LOCAL-00020" summary="getSearchBarText should return String?">
+      <created>1511865026724</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1511865026724</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Renamed NearByViewController to VenuesViewController">
+      <created>1511866241586</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1511866241586</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added unit test for credentials">
+      <created>1511872149225</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1511872149225</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added tests for FoursquareService">
+      <created>1511875179449</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1511875179449</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Small rename">
+      <created>1511878907038</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1511878907038</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added VenuesPresenter test">
+      <created>1511889133688</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1511889133688</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added UI tests">
+      <created>1511898451927</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1511898451927</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 18h 46m 16s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 18h 47m 42s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 18h 50m 38s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 18h 51m 07s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 18h 51m 50s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 18h 52m 54s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 18h 53m 42s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 18h 54m 50s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 18h 59m 17s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+    <history-entry file="All_Unit_Tests - 2017.11.28 at 19h 10m 41s.xml">
+      <configuration name="All Unit Tests" configurationId="OCUnitRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78162000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="962" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2833032" sideWeight="0.49242425" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951757" sideWeight="0.4954792" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951757" sideWeight="0.5045208" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17902209" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26577288" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20224719" sideWeight="0.50757575" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21845426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951757" sideWeight="0.4954792" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21914648" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951757" sideWeight="0.5045208" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19838524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951757" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21820374" sideWeight="0.49242425" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26592356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20224719" sideWeight="0.50757575" order="3" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Added some requests and jsons ping pong" />
+    <MESSAGE value="Fixed table view cell" />
+    <MESSAGE value="Rendering distance in km if longer than 1000m" />
+    <MESSAGE value="Fixed constrains for Detailed view" />
+    <MESSAGE value="Removed some crap" />
+    <MESSAGE value="Sorting by distance" />
+    <MESSAGE value="Added delayed selector, searching for venues while user types" />
+    <MESSAGE value="Implemented cell reusage" />
+    <MESSAGE value="Showing venues search" />
+    <MESSAGE value="Resetting filtering model when search text is empty" />
+    <MESSAGE value="Made distance label grow, so that any distance can be shown" />
+    <MESSAGE value="Small refactorings" />
+    <MESSAGE value="Moved DelayedSelector to separate file" />
+    <MESSAGE value="Renamed FoursquareService" />
+    <MESSAGE value="Removed test cells" />
+    <MESSAGE value="Refactored table view related code into extension" />
+    <MESSAGE value="Refactored MVC into MVP" />
+    <MESSAGE value="Removed code duplicate in handle*Results" />
+    <MESSAGE value="getSearchBarText should return String?" />
+    <MESSAGE value="Renamed NearByViewController to VenuesViewController" />
+    <MESSAGE value="Added unit test for credentials" />
+    <MESSAGE value="Added tests for FoursquareService" />
+    <MESSAGE value="Small rename" />
+    <MESSAGE value="Added VenuesPresenter test" />
+    <MESSAGE value="Added UI tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added UI tests" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/nearBy/VenuesPresenter.swift</url>
+          <line>115</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/FoursquareApi.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/FoursquareApi.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/FoursquareApi.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/FoursquareApi.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="41" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/Detailed.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/FoursquareApi.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/Detailed.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/FoursquareApi.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/ViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/FoursquareApi.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/ViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/ViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/ViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="appcode.project-settings://9110c4ac">
+      <provider selected="true" editor-type-id="AppCode.ProjectSettings">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.m" />
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.h" />
+    <entry file="file://$PROJECT_DIR$/nearBy/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/ViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/AppCode2017.2/DerivedData/nearBy-gjtcjyetzjsawactoebozdqcorin/Build/Intermediates.noindex/nearBy.build/Debug-iphonesimulator/nearBy.build/nearBy.app.xcent" />
+    <entry file="file://$PROJECT_DIR$/nearBy/FoursquareApi.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByPresenter.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/DelayedSelector.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/NearByViewController.swift" />
+    <entry file="appcode.project-settings://920b1a4f">
+      <provider selected="true" editor-type-id="AppCode.ProjectSettings">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearByTests/nearByTests.swift" />
+    <entry file="file://$PROJECT_DIR$/nearBy/Detailed.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/VenuesPresenter.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="65" column="29" lean-forward="false" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/VenuesViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearByTests/VenuesPresenterTests.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+          <folding>
+            <element signature="e#160#173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/FoursquareService.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/SimpleLocationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/SwiftyJSON.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="120" column="11" lean-forward="false" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearByTests/FoursquareServiceTests.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearBy/credentials.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nearByTests/FoursquareCredentialTests.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <element signature="e#165#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
